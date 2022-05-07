@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Frosxy
 - 👀 I’m interested in Full Stack programation
-- 🌱 I’m currently learning Computar Ciênce
+- 🌱 I’m currently learning Computation Cience
 - 📫 How to reach me kaio.desouza.cardoso@gmail.com
 
 <!---
